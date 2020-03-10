@@ -1,14 +1,12 @@
-<<<<<<< HEAD
-#les basiques
+# les basiques
 
 Dans ce chapitre sont présentées les commandes usuelles de `git`
 
-##récupération d'un projet 
-=======
+## récupération d'un projet 
+
 # les basiques
 
 ## récupération d'un projet 
->>>>>>> fb61f24b4003a1b749a9ff38a3cc1b9d4416b48d
 
 git clone \<url\>
 
