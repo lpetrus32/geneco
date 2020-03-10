@@ -4,6 +4,6 @@
 
 
 ## Chapitre  :Les basiques
-Dans ce chapitre, seront présentés les commandes principales de github
+Dans ce [chapitre](chapters/chapter1.md), seront présentés les commandes principales de github
 
 ##chapitre3
